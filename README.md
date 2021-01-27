@@ -19,6 +19,6 @@
 
 | 题号 |         题目         | 难度 |                             语言                             |
 | :--: | :------------------: | :--: | :----------------------------------------------------------: |
-| 68Ⅱ  | 二叉树的最近公共祖先 | 简单 | [Python](https://github.com/TobinZuo/Algorithms-and-data-structure/blob/master/%E5%89%91%E6%8C%87offer/68%E2%85%A1%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) |
+| 68Ⅱ  | 二叉树的最近公共祖先 | 简单 | [Python](https://github.com/TobinZuo/Algorithms-and-data-structure/blob/master/%E5%89%91%E6%8C%87offer/Python/68%E2%85%A1%EF%BC%9A%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md) |
 
 公式无法渲染的小伙伴，如果用的是Chrome浏览器，可以安装[Tex All the Things](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn)扩展程序，刷新后就能正常显示啦。
