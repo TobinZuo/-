@@ -16,6 +16,8 @@
 | 131  |    分割回文串    | 中等 |    [Python3](./Leetcode/Python/131.分割回文串.md)     |      字符串 \| 深度优先搜索      |
 | 200  |     岛屿数量     | 中等 |     [Python3](./Leetcode/Python/200.岛屿数量.md)      |       数组 \| 深度优先搜索       |
 | 437  |    路径总和Ⅲ     | 中等 |     [Python3](./Leetcode/Python/437.路径总和Ⅲ.md)     |        树 \| 深度优先搜索        |
+| 622  |   设计循环队列   | 中等 |   [Python3](./Leetcode/Python/622.设计循环队列.md)    |           队列 \| 设计           |
+| 641  | 设计循环双向队列 | 中等 | [Python3](./Leetcode/Python/641.设计循环双向队列.md)  |           队列 \| 设计           |
 | 933  |  最近的请求次数  | 简单 |  [Python3](./Leetcode/Python/933.最近的请求次数.md)   |               队列               |
 | 1688 | 比赛中的配对次数 | 简单 | [Python3](./Leetcode/Python/1688.比赛中的配对次数.md) |               递归               |
 
