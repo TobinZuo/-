@@ -14,6 +14,7 @@
 | 112  |     路径总和     | 简单 |     [Python3](./Leetcode/Python/112.路径总和.md)      |            树 \| 回溯            |
 | 113  |    路径总和Ⅱ     | 中等 |     [Python3](./Leetcode/Python/113.路径总和Ⅱ.md)     |        树 \| 深度优先搜索        |
 | 131  |    分割回文串    | 中等 |    [Python3](./Leetcode/Python/131.分割回文串.md)     |      字符串 \| 深度优先搜索      |
+| 134  |      加油站      | 中等 |      [Python3](./Leetcode/Python/134.加油站.md)       |               贪心               |
 | 200  |     岛屿数量     | 中等 |     [Python3](./Leetcode/Python/200.岛屿数量.md)      |       数组 \| 深度优先搜索       |
 | 437  |    路径总和Ⅲ     | 中等 |     [Python3](./Leetcode/Python/437.路径总和Ⅲ.md)     |        树 \| 深度优先搜索        |
 | 622  |   设计循环队列   | 中等 |   [Python3](./Leetcode/Python/622.设计循环队列.md)    |           队列 \| 设计           |
