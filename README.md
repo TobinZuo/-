@@ -9,6 +9,7 @@
 |  16  |  最接近的三数之和   | 中等 |   [Python3](./Leetcode/Python/16.最接近的三数之和.md)   |           数组 \| 双指针           |
 |  22  |      括号生成       | 中等 |       [Python3](./Leetcode/Python/22.括号生成.md)       |           字符串 \| 回溯           |
 |  37  |       解数独        | 困难 |        [Python3](./Leetcode/Python/37.解数独.md)        |  数组 \| 哈希表 \| 回溯 \| 位运算  |
+|  45  |      跳跃游戏Ⅱ      | 中等 |      [Python3](./Leetcode/Python/45.跳跃游戏Ⅱ.md)       |            数组 \| 贪心            |
 |  46  |       全排列        | 中等 |        [Python3](./Leetcode/Python/46.全排列.md)        |                回溯                |
 |  73  |      矩阵置零       | 中等 |       [Python3](./Leetcode/Python/73.矩阵置零.md)       |          数组 \| 原地算法          |
 |  77  |        组合         | 中等 |         [Python3](./Leetcode/Python/77.组合.md)         |            回溯 \| 数学            |
