@@ -12,6 +12,7 @@
 |  37  |       解数独        | 困难 |        [Python3](./Leetcode/Python/37.解数独.md)        |  数组 \| 哈希表 \| 回溯 \| 位运算  |
 |  45  |      跳跃游戏Ⅱ      | 中等 |      [Python3](./Leetcode/Python/45.跳跃游戏Ⅱ.md)       |            数组 \| 贪心            |
 |  46  |       全排列        | 中等 |        [Python3](./Leetcode/Python/46.全排列.md)        |                回溯                |
+|  67  |     二进制求和      | 简单 |      [Python3](./Leetcode/Python/67.二进制求和.md)      |           字符串 \| 数学           |
 |  73  |      矩阵置零       | 中等 |       [Python3](./Leetcode/Python/73.矩阵置零.md)       |          数组 \| 原地算法          |
 |  77  |        组合         | 中等 |         [Python3](./Leetcode/Python/77.组合.md)         |            回溯 \| 数学            |
 |  79  |      单词搜索       | 中等 |       [Python3](./Leetcode/Python/79.单词搜索.md)       |        数组 \| 深度优先搜索        |
