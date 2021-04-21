@@ -20,7 +20,7 @@
 | 112  |       路径总和       | 简单 |      [Python3](./Leetcode/Python/112.路径总和.md)       |             树 \| 回溯             |
 | 113  |      路径总和Ⅱ       | 中等 |      [Python3](./Leetcode/Python/113.路径总和Ⅱ.md)      |         树 \| 深度优先搜索         |
 | 122  | 买卖股票的最佳时机Ⅱ  | 简单 | [Python3](./Leetcode/Python/122.买卖股票的最佳时机Ⅱ.md) |                贪心                |
-| 125  |      验证回文串      | 简单 |     [Python3](./Leetcode/Python/125.验证回文串Ⅱ.md)     |          字符串 \| 双指针          |
+| 125  |      验证回文串      | 简单 |     [Python3](./Leetcode/Python/125.验证回文串.md)      |          字符串 \| 双指针          |
 | 131  |      分割回文串      | 中等 |     [Python3](./Leetcode/Python/131.分割回文串.md)      |       字符串 \| 深度优先搜索       |
 | 134  |        加油站        | 中等 |       [Python3](./Leetcode/Python/134.加油站.md)        |                贪心                |
 | 200  |       岛屿数量       | 中等 |      [Python3](./Leetcode/Python/200.岛屿数量.md)       |        数组 \| 深度优先搜索        |
