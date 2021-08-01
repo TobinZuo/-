@@ -2,7 +2,7 @@
 Question id | Title | Level | Language | Topic | AcRate
 :-----------:|:-----:|:-----:|:--------:|:-----:|:------:
 [0003](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Longest Substring Without Repeating Characters](./Notes/Leetcode/0003.Longest Substring Without Repeating Characters.md) | Medium | [Python](./Codes/Leetcode/Python/0003.Longest Substring Without Repeating Characters.md) | Hash Table,String,Sliding Window | 32.0%
-[0016](https://leetcode.com/problems/3sum-closest) | [3Sum Closest](./Notes/Leetcode/0016.3Sum Closest.md) | Medium | [Python](./Codes/Leetcode/Python/0016.3Sum Closest.md) | Array,Two Pointers,Sorting | 46.7%
+[0016](https://leetcode.com/problems/3sum-closest) | [3Sum Closest](./Notes/Leetcode/0016.3SumClosest.md) | Medium | [Python](./Codes/Leetcode/Python/0016.3Sum Closest.md) | Array,Two Pointers,Sorting | 46.7%
 [0022](https://leetcode.com/problems/generate-parentheses) | [Generate Parentheses](./Notes/Leetcode/0022.Generate Parentheses.md) | Medium | [Python](./Codes/Leetcode/Python/0022.Generate Parentheses.md) | String,Dynamic Programming,Backtracking | 67.3%
 [0028](https://leetcode.com/problems/implement-strstr) | [Implement strStr()](./Notes/Leetcode/0028.Implement strStr().md) | Easy | [Python](./Codes/Leetcode/Python/0028.Implement strStr().md) | Two Pointers,String,String Matching | 35.7%
 [0037](https://leetcode.com/problems/sudoku-solver) | [Sudoku Solver](./Notes/Leetcode/0037.Sudoku Solver.md) | Hard | [Python](./Codes/Leetcode/Python/0037.Sudoku Solver.md) | Array,Backtracking,Matrix | 49.1%

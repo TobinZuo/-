@@ -46,7 +46,7 @@ def create_readme():
         # print(gen_table(constant.col_name, gen_data(dir)))
         readme_contents.append("\n".join(["## {}".format(dir), gen_table(constant.col_name, gen_data(dir))]))
 
-    tips = "公式无法渲染的小伙伴，如果用的是Chrome浏览器，可以安装[TexAlltheThings](https: // chrome.google.com / webstore / detail / tex-all-the-things / cbimabofgmfdkicghcadidpemeenbffn)扩展程序，刷新后就能正常显示啦。"
+    tips = "公式无法渲染的小伙伴，如果用的是Chrome浏览器，可以安装[TexAlltheThings](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn)扩展程序，刷新后就能正常显示啦。"
 
     readme_contents.append(tips)
     with open(file_name, "w", encoding="utf8") as f:
