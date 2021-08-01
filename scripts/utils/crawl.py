@@ -152,13 +152,10 @@ class Crawl:
         question_all_data = self.get_problem_by_slug(slug)
         # analyze data
         title = question_all_data["questionTitle"]
-        if dir != "lc":
+        if dir != "lc" and dir != "Leetcode":
             title = " ".join(title.split()[:-1])
         else:
             id = "0"*(4-len(id)) + id
-        print("title==========", title)
-
-        print("id=========", id)
         content = question_all_data['content']
         difficulty = question_all_data["difficulty"]
         ac_rate = json.loads(question_all_data["stats"])["acRate"]
@@ -177,7 +174,7 @@ class Crawl:
 
 def crawl_question_info(dir, index):
     dir, index = str(dir).strip(), str(index).strip()
-    assert dir in constant.dir_dic.keys()
+    assert dir in constant.url_base.keys()
     crawler = Crawl(constant.is_en[dir])
     return crawler.get_all_info(dir, index)
 

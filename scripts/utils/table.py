@@ -17,7 +17,7 @@ def gen_table(cols_name, data) -> str:
     first_line = ""
     first_line += ' | '.join(cols_name)
     lines += [first_line]
-    print('1', lines)
+    # print('1', lines)
     ## dividing line, such as ' :------: | :---------------: | :-----: | :-----: | :--------: | :-----: '
     SPLIT = ":{}:"
     dividing_line = ""
@@ -26,7 +26,7 @@ def gen_table(cols_name, data) -> str:
         tmp.append(SPLIT.format('-' * len(cols_name[i])))
     dividing_line = '|'.join(tmp)
     lines += [dividing_line]
-    print('2', lines)
+    # print('2', lines)
 
     ## data
     for i in range(len(data)):
@@ -35,7 +35,7 @@ def gen_table(cols_name, data) -> str:
                 data[i][index] = "None"
         tmp_line = ' | '.join(data[i])
         lines += [tmp_line]
-    print('3', lines)
+    # print('3', lines)
 
     table = '\n'.join(lines)
     return table

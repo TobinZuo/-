@@ -12,8 +12,8 @@ def usage():
     print(
         "python test.py -t <dir> -n <index>\nindex can be question_title or question_number but question_number is only use in leetcode")
     print("for example:\n   python main.py -d lc -i 123\n")
-    print("   python main.py -d lcci -i Sparse Similarity LCCI\n")
-    print("   python main.py -d lcof -i 二叉树的最近公共祖先 LCOF\n")
+    print("   python note.py -d lcci -i Sparse Similarity LCCI\n")
+    print("   python note.py -d lcof -i 二叉树的最近公共祖先 LCOF\n")
 
 
 def get_dir_index(args):
