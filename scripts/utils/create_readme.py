@@ -31,9 +31,11 @@ def gen_data(dir) -> List[List[str]]:
     # end = time.time()
     # print("串行: ", end - start)
     # start = time.time()
-    data = create_catalog_tornado(dir, file_names=note_file_names)
+    # print(note_file_names)
+    data = create_catalog_tornado(dir, file_names=note_file_names, slugs=[])
     end = time.time()
     # print("tornado: ", end - start)
+    # print(data)
     return data
 
 def create_readme():
@@ -41,6 +43,7 @@ def create_readme():
     dirs = constant.dirs
     readme_contents = []
     for dir in dirs:
+        # print(gen_table(constant.col_name, gen_data(dir)))
         readme_contents.append("\n".join(["## {}".format(dir), gen_table(constant.col_name, gen_data(dir))]))
 
     tips = "公式无法渲染的小伙伴，如果用的是Chrome浏览器，可以安装[TexAlltheThings](https: // chrome.google.com / webstore / detail / tex-all-the-things / cbimabofgmfdkicghcadidpemeenbffn)扩展程序，刷新后就能正常显示啦。"

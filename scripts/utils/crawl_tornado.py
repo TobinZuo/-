@@ -106,7 +106,7 @@ class Crawler(object):
         topics = question_all_data["topicTags"]
         similar_questions_indexes = []
         for similarQuestion in similarQuestions:
-            similar_questions_indexes.append(list(similarQuestion.values())[0])
+            similar_questions_indexes.append(list(similarQuestion.values())[1])
         file_name = ".".join([str(id), title, "md"])
 
         return [id, link, title, content, difficulty, ac_rate, similar_questions_indexes, topics, file_name]

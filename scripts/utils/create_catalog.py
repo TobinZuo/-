@@ -5,10 +5,8 @@ import utils.constant as constant
 from utils.crawl_tornado import crawl_question_info_tornado
 
 # 主要用于生成相似题目目录和从文件名生成目录
-def create_catalog_tornado(dir, file_names=[], index=""):
-    dic = {}
+def create_catalog_tornado(dir, file_names=[], slugs=[]):
     file_names.sort()
-    slugs = []
     for file_name in file_names:
         slugs.append(get_index_from_file(dir, file_name))
     all_question_data = crawl_question_info_tornado(dir, slugs)
@@ -19,10 +17,10 @@ def create_catalog_tornado(dir, file_names=[], index=""):
         langs = []
         for lang in os.listdir(os.path.join(constant.codes_dir, dir)):
             if file_name in os.listdir(os.path.join(constant.codes_dir, dir, lang)):
-                langs.append("[{}]({})".format(lang, os.path.join(constant.codes_dir, dir, lang, file_name)))
+                langs.append("[{}]({})".format(lang, os.path.join("./Codes", dir, lang, file_name)))
         id_link = "[{}]({})".format(id, link)
         notes_path = os.path.join(constant.notes_dir, dir)
-        title = "[{}]({})".format(title, r"../Notes/{}/{}".format(dir, file_name)) if file_name in os.listdir(
+        title = "[{}]({})".format(title, r"./Notes/{}/{}".format(dir, file_name)) if file_name in os.listdir(
             notes_path) else title
         topic_values = []
         for topic in topics:

@@ -47,10 +47,7 @@ def create_note_frame(dir, slugs):
         else:
             # col_names = ['title | titleSlug | difficulty | translatedTitle']
             col_name = constant.col_name
-            sim_catalog = []
-            for similar_questions_index in similar_questions_indexes:
-                sim_catalog.append(create_catalog_tornado(dir, [], similar_questions_index))
-
+            sim_catalog = create_catalog_tornado(dir, [], similar_questions_indexes)
             similar_questions_table = table.gen_table(col_name, sim_catalog)
             similar_questions = '\n'.join([similar_questions, similar_questions_table])
 

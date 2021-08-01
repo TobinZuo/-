@@ -2,39 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8753e2f6-1a32-47f5-84c0-3e9d5cd9c765" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0003.Longest Substring Without Repeating Characters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0016.3Sum Closest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0022.Generate Parentheses.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0028.Implement strStr().md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0037.Sudoku Solver.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0045.Jump Game II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0046.Permutations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0067.Add Binary.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0073.Set Matrix Zeroes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0077.Combinations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0079.Word Search.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0112.Path Sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0113.Path Sum II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0122.Best Time to Buy and Sell Stock II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0125.Valid Palindrome.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0131.Palindrome Partitioning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0134.Gas Station.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0200.Number of Islands.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0209.Minimum Size Subarray Sum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0406.Queue Reconstruction by Height.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0437.Path Sum III.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0622.Design Circular Queue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0641.Design Circular Deque.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0647.Palindromic Substrings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0765.Couples Holding Hands.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0867.Transpose Matrix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0933.Number of Recent Calls.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/0977.Squares of a Sorted Array.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/1221.Split a String in Balanced Strings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/Leetcode/Python/1688.Count of Matches in Tournament.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/{'questionId': '1',.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/{'user_name': '', 'num_solved': 0, 'num_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0003.Longest Substring Without Repeating Characters.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0003.Longest Substring Without Repeating Characters.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0016.3Sum Closest.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0016.3Sum Closest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0022.Generate Parentheses.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0022.Generate Parentheses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0028.Implement strStr().md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0028.Implement strStr().md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0037.Sudoku Solver.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0037.Sudoku Solver.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0045.Jump Game II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0045.Jump Game II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0046.Permutations.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0046.Permutations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0067.Add Binary.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0067.Add Binary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0073.Set Matrix Zeroes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0073.Set Matrix Zeroes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0077.Combinations.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0077.Combinations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0079.Word Search.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0079.Word Search.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0112.Path Sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0112.Path Sum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0113.Path Sum II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0113.Path Sum II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0122.Best Time to Buy and Sell Stock II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0122.Best Time to Buy and Sell Stock II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0125.Valid Palindrome.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0125.Valid Palindrome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0131.Palindrome Partitioning.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0131.Palindrome Partitioning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0200.Number of Islands.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0200.Number of Islands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0209.Minimum Size Subarray Sum.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0209.Minimum Size Subarray Sum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0406.Queue Reconstruction by Height.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0406.Queue Reconstruction by Height.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0437.Path Sum III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0437.Path Sum III.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0622.Design Circular Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0622.Design Circular Queue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0641.Design Circular Deque.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0641.Design Circular Deque.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0647.Palindromic Substrings.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0647.Palindromic Substrings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0765.Couples Holding Hands.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0765.Couples Holding Hands.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Leetcode/0977.Squares of a Sorted Array.md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Leetcode/0977.Squares of a Sorted Array.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/readme.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/readme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/utils/crawl_tornado.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/crawl_tornado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/utils/create_catalog.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/create_catalog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/utils/create_note.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/create_note.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,6 +227,7 @@
       <workItem from="1627123245817" duration="32882000" />
       <workItem from="1627644616384" duration="25230000" />
       <workItem from="1627826194180" duration="824000" />
+      <workItem from="1627829725067" duration="1093000" />
     </task>
     <servers />
   </component>
@@ -255,7 +253,7 @@
     <SUITE FILE_PATH="coverage/Algorithms_and_data_structure$main.coverage" NAME="main Coverage Results" MODIFIED="1622390183064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/Algorithms_and_data_structure$rename.coverage" NAME="rename Coverage Results" MODIFIED="1626534577375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode/Python" />
     <SUITE FILE_PATH="coverage/Algorithms_and_data_structure$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1626544874760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/utils" />
-    <SUITE FILE_PATH="coverage/Algorithms_and_data_structure$readme.coverage" NAME="readme Coverage Results" MODIFIED="1627825517653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/Algorithms_and_data_structure$readme.coverage" NAME="readme Coverage Results" MODIFIED="1627830730868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/Algorithms_and_data_structure$create_readme.coverage" NAME="create_readme Coverage Results" MODIFIED="1626535154795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/utils" />
     <SUITE FILE_PATH="coverage/Algorithms_and_data_structure$code.coverage" NAME="code Coverage Results" MODIFIED="1627825128963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
