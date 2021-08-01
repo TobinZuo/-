@@ -5,8 +5,6 @@ url_base = {"lc": "https://leetcode.com", "lcci": "https://leetcode-cn.com", "lc
 is_en = {"lc": "https://leetcode.com/", "lcci": "https://leetcode-cn.com/", "lcof": "https://leetcode-cn.com/",
             "Leetcode": "https://leetcode.com/", "程序员面试金典": "https://leetcode-cn.com/", "剑指offer": "https://leetcode-cn.com/"}
 
-
-
 get_api = {"lc": "https://leetcode.com/api/problems/all", "lcci": "https://leetcode-cn.com/api/problems/all", "lcof": "https://leetcode-cn.com/api/problems/all",
             "Leetcode": "https://leetcode.com/api/problems/all", "程序员面试金典": "https://leetcode-cn.com/api/problems/all", "剑指offer": "https://leetcode-cn.com/api/problems/all"}
 post_api = {"lc": "https://leetcode.com/graphql", "lcci": "https://leetcode-cn.com/graphql", "lcof": "https://leetcode-cn.com/graphql",

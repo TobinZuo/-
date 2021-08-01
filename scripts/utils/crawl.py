@@ -7,6 +7,7 @@ import requests, json
 from requests_toolbelt import MultipartEncoder
 import utils.constant as constant
 
+# deprecated
 # simulate login
 class Crawl:
     def __init__(self, is_en=True):

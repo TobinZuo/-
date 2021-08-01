@@ -1,3 +1,4 @@
+import asyncio
 import json
 import time
 import utils.constant as constant
@@ -166,18 +167,21 @@ class All_question_data(object):
         # print("get all question info, time={}, dir={}".format(endtime-starttime, self.dir))
         return slugs
 
+import threading
 def crawl_question_info_tornado(dir, slugs):
     question_info = Question_info(dir, slugs)
+    #if threading.current_thread() != threading.main_thread():
     loop = IOLoop.current()
     return loop.run_sync(question_info.get_question_info)
 def crawl_slugs(dir, titles):
     all_question_data = All_question_data(dir, titles)
+    #if threading.current_thread() != threading.main_thread():
     loop = IOLoop.current()
     return loop.run_sync(all_question_data.get_slugs)
 
-
-if __name__ == '__main__':
-    question_info = Question_info("lc", slugs)
-    loop = IOLoop.current()
-    loop.run_sync(question_info.get_question_info)
+#
+# if __name__ == '__main__':
+#     question_info = Question_info("lc", slugs)
+#     loop = IOLoop.current()
+#     loop.run_sync(question_info.get_question_info)
 
